@@ -1,0 +1,8 @@
+root
+admin
+user
+test
+ubuntu
+debian
+guest
+student
