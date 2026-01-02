@@ -12,11 +12,9 @@ Hack-The-Box-Solved-Labs/
 │
 ├── Machine-Name-1/
 │ ├── screenshots/
-│ └── flags.txt
 │
 ├── Machine-Name-2/
 │ ├── screenshots/
-│ └── flags.txt
 │
 └── ...
 ```
